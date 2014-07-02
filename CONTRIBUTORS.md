@@ -7,3 +7,4 @@ People listed under maintainers may be contacted with questions/suggestions rega
 Mark "Happy-Ferret" Bauermeister
 
 ## Contributors
+Rikkert Kraaijenbrink (thanks for the beautiful mascot art, which I'll make sure to add later)
