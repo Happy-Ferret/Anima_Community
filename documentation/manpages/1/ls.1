@@ -1,0 +1,40 @@
+.\"-
+.\"Released as "All Rights Reserved"
+.\"until further notice/application of a formal license
+.\"
+.Dd August 1, 2014
+.Dt ls 1
+.Os Anima
+.Sh NAME
+.Nm ls
+.Nd list directory contents.
+.Sh SYNOPSIS
+.Nm
+.Op Ar
+.Sh DESCRIPTION
+The
+.Nm
+utility displays the contents of a directory.
+The
+.Ar file
+operands are processed in command-line order.
+.Sh EXIT STATUS
+.Ex -std
+.Sh EXAMPLES
+The command:
+.Pp
+.Dl "ls"
+.Pp
+will print the contents of the
+.Ar current directory.
+.Pp
+The command:
+.Pp
+.Dl "ls -la"
+.Pp
+will print the contents of
+.Ar the current directory
+(including hidden files) as well as
+.Ar global permissions
+and
+.Ar block sizes.
