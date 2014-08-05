@@ -1,0 +1,53 @@
+.\"-
+.\"Released as "All Rights Reserved"
+.\"until further notice/application of a formal license
+.\"
+.Dd August 5, 2014
+.Dt echo 1
+.Os Anima
+.Sh NAME
+.Nm echo
+.Nd print arguments to the standard output
+.Sh SYNOPSIS
+.Nm
+.Op -n
+.Op String ...
+.Sh DESCRIPTION
+The
+.Nm
+utility writes any specified operands, separated by single blank (` ') characters and followed by a newline ('/n') character, to the standard output.
+.Sh EXIT STATUS
+.Ex -std
+.Sh EXAMPLES
+The command:
+.Pp
+.Dl "echo Hello World"
+.Pp
+will print 
+.Ar Hello World
+to the standard output.
+.Pp
+The command:
+.Pp
+.Dl "echo -n Hello World"
+.Pp
+will likewise print
+.Ar Hello World
+to the standard output, but supressing any newline. 
+.Pp
+The command:
+.Pp
+.Dl "echo Hello World > file"
+.Pp
+will redirect the input to a file.
+.Sh SEE ALSO
+.Xr builtin 1 ,
+.Xr csh 1 ,
+.Xr printf 1 ,
+.Xr sh 1
+.Sh STANDARDS
+The
+.Nm
+utility is compliant with the
+.St -p1003.1-2001
+specification.
