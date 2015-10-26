@@ -7,7 +7,7 @@ In order to ensure consistency between applications, the AOAL grants users the f
 2. Changing and adapting the assets to one's specific use-case.
 
 The above rights apply to an Anima OS specific context. For usage outside Anima OS applications<sup>[2](#footnote2)</sup>, please
-contact the author of the particular asset. Contact info can usually be found inside CONTRIBUTORS.md, which is part of this
+contact the author of the particular asset. Contact info can usually be found inside [CONTRIBUTORS.md](https://github.com/Happy-Ferret/Anima_Community/blob/master/CONTRIBUTORS.md), which is part of this
 repository's root directory.
 
 > NOTE: The AOAL is not suited for the licensing of source code.
