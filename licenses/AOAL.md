@@ -16,6 +16,6 @@ repository's root directory.
 <br/>
 
 <a name="footnote1"><sup>*1*</sup></a><sup>*: Test*</sup><br>
-<a name="footnote2"><sup>*2*</sup></a><sup>*: Any use case. Commercial and non-commercial*</sup><br>
+<a name="footnote2"><sup>*2*</sup></a><sup>*: Any use case. Commercial and non-commercial. As long as it is specific to Anima OS and its underlying software products.*</sup><br>
 <a name="footnote3"><sup>*3*</a><sup>*: An application developed for Anima OS, being executed on 
 top of an active Anima OS desktop.*</sup>
